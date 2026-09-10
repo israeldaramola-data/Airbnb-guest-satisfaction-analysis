@@ -230,6 +230,8 @@ The interactive Power BI dashboard brings together the project's KPIs, guest sat
 
 * [Technical Report](Documentation/Technical_Report.pdf)
 
+### Images
+Contains Dashboard Screenshots
 
 ---
 
